@@ -3,5 +3,5 @@ module Eyal{
         public doWork(){
             alert(133);
         }
-    } 
+    }
 }
