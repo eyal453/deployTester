@@ -1,0 +1,86 @@
+[
+  {
+    "id": "f2e4a641-3bb8-493f-805f-89ce47d14b51",
+    "name": "Classic"
+  },
+  {
+    "id": "8c5605ff-8b7b-4fec-be5a-649325ea21d6",
+    "name": "Panoramic"
+  },
+  {
+    "id": "f13ff2cd-8707-4cde-a94a-9841e4c3ef6b",
+    "name": "TimeLapse"
+  },
+  {
+    "id": "93ecfd7e-46ee-4d77-b296-a655c4361350",
+    "name": "HDR"
+  },
+  {
+    "id": "7b3275c8-311f-400e-bc00-776260e6b296",
+    "name": "Vintage"
+  },
+  {
+    "id": "6ddfe65f-c173-41f6-bda1-fd7731306588",
+    "name": "Iphonography"
+  },
+  {
+    "id": "38ed353b-1293-4cfe-9c4d-e9ceccbb0c15",
+    "name": "ColorSplash"
+  },
+  {
+    "id": "ea46982c-14d0-471f-abc7-8af4dff5b85e",
+    "name": "BlackWhite"
+  },
+  {
+    "id": "549c272a-4cc8-4490-a9cf-1b67ffd0047c",
+    "name": "Holga"
+  },
+  {
+    "id": "b66a11a5-688c-4390-bc6b-fcd09c2e3944",
+    "name": "Modern"
+  },
+  {
+    "id": "eed3a8cf-5c65-4332-9361-b355dbe7d62b",
+    "name": "Retro"
+  },
+  {
+    "id": "0bfcdf84-f6ad-45ae-82e6-64caecd80451",
+    "name": "HighSpeed"
+  },
+  {
+    "id": "f7de0ebe-71f9-426d-88d4-46b4dbf91202",
+    "name": "Urban"
+  },
+  {
+    "id": "169246d3-5631-455b-9c72-1ab62f5b3c1c",
+    "name": "Motion"
+  },
+  {
+    "id": "f76ef020-f0fc-4184-bf1a-60d42c536df6",
+    "name": "Silhouettes"
+  },
+  {
+    "id": "b27c474a-5efb-479c-aebc-159ff5e0e5b6",
+    "name": "UnderWater"
+  },
+  {
+    "id": "4029c890-d9a8-438a-ac00-a7fe5969fa3c",
+    "name": "Night"
+  },
+  {
+    "id": "d717c7e4-eeda-455d-8939-e38093cbec05",
+    "name": "FishEye"
+  },
+  {
+    "id": "f57df2db-6cda-4d85-9111-9c0110c66455",
+    "name": "Macro"
+  },
+  {
+    "id": "ea173472-da40-41c7-9170-5678287356d8",
+    "name": "LargeFormat"
+  },
+  {
+    "id": "8fafe854-ff6b-4934-9442-d3077bd23470",
+    "name": "LightGraffiti"
+  }
+]

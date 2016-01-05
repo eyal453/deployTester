@@ -1,0 +1,46 @@
+[
+  {
+    "id": "6b11e569-c7c5-4697-9ac4-859f92ce0c20",
+    "name": "Corporate"
+  },
+  {
+    "id": "0053adf9-bb86-4da7-a2c0-1734855bdd66",
+    "name": "Events"
+  },
+  {
+    "id": "883c172e-40a1-4095-a2ce-14cb2dc1cd3b",
+    "name": "Wedding"
+  },
+  {
+    "id": "8f68144b-c8be-48a4-8036-83e271ef5a61",
+    "name": "Animals"
+  },
+  {
+    "id": "5073a71b-eb52-48b7-b093-0dafe4901a99",
+    "name": "Architecture"
+  },
+  {
+    "id": "065c6369-a049-4dde-9908-3e5fb7afd621",
+    "name": "Birthday"
+  },
+  {
+    "id": "c0496c0e-be06-4128-b15b-f7a3b324deda",
+    "name": "Travel"
+  },
+  {
+    "id": "60d86314-4967-40cd-b0ba-63a10289489a",
+    "name": "Children"
+  },
+  {
+    "id": "40baa4c9-95d0-4571-99d1-59384aaf0b57",
+    "name": "Fashion"
+  },
+  {
+    "id": "a797e989-9c86-4e1e-ac42-e08c5dec99e6",
+    "name": "Aerial"
+  },
+  {
+    "id": "a297b3bb-aede-486f-b3f3-74ea6cd0fd99",
+    "name": "FamilyPortrait"
+  }
+]

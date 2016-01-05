@@ -1,0 +1,30 @@
+{
+  "accountDetails": {
+    "userDetails": {
+      "id": "9c7d7c78-769d-07b4-a7fa-8b8adf82bc3f",
+      "firstName": "Fake",
+      "lastName": "Profile",
+      "displayName": null,
+      "email": "fakeprofile@codevalue.net",
+      "profilePictureUrl": null,
+      "birthDate": null,
+      "gender": 0,
+      "address": null,
+      "phoneNumber": "987-8865-78"
+    },
+    "consumerDetails": null,
+    "photographerDetails": {
+      "businessName": "Business name",
+      "categories": null,
+      "styles": null,
+      "location": null,
+      "workRadius": 0,
+      "biography": "I'm the best of the best of the best photographers in the universe and I'm very modest",
+      "gears": null
+    }
+  },
+  "portfolio": {
+    "id": "9c7d7c78-769d-07b4-a7fa-8b8adf82bc3f",
+    "items": []
+  }
+}
